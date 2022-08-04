@@ -1,2 +1,2 @@
 # Agenda_backend
-La partie backend de l'application de location des bureaux 
+La partie backend de l'application de location des bureaux de BureauBox
